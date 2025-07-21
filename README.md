@@ -4,6 +4,10 @@
 ![Python](https://img.shields.io/badge/Python-ML-blue?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
+<p align="center">
+  <img src="https://github.com/Sangeetha-K-04/EmailSpamDetection/blob/main/spam%20filter.png?raw=true" alt="Spam Detection" width="600"/>
+</p>
+
 > ✨ A smart, interactive, and AI-powered email filter built with Python and Machine Learning to detect **Spam** vs **Ham** mails with high accuracy. It goes beyond simple classification and even allows users to take real-time action like **reporting**, **blocking**, or **deleting** suspicious messages.  
 
 ---
