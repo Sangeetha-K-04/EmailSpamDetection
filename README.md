@@ -8,7 +8,10 @@
   <img src="https://github.com/Sangeetha-K-04/EmailSpamDetection/blob/main/spam%20filter.png?raw=true" alt="Spam Detection" width="600"/>
 </p>
 
-> ✨ A smart, interactive, and AI-powered email filter built with Python and Machine Learning to detect **Spam** vs **Ham** mails with high accuracy. It goes beyond simple classification and even allows users to take real-time action like **reporting**, **blocking**, or **deleting** suspicious messages.  
+> ✨ A smart, interactive, and AI-powered email filter built with Python and Machine Learning to detect **Spam** vs **Ham** mails with high accuracy. It goes beyond simple classification and even allows users to take real-time action like **reporting**, **blocking**, or **deleting** suspicious messages.
+
+>  🎓 This is an academic project I completed to demonstrate how machine learning can be used to classify emails as spam or ham using Python and scikit-learn.
+
 
 ---
 
@@ -65,3 +68,48 @@ The `Category` is mapped to binary labels:
 
 ## 🔢 Sample Prediction Output
 
+![Spam Detection](https://github.com/Sangeetha-K-04/EmailSpamDetection/blob/main/output%20spam.png?raw=true)
+
+---
+
+## 🎯 Accuracy
+
+| Dataset       | Accuracy 📈 |
+|---------------|--------------|
+| Training Set  | 98–99% ✅     |
+| Testing Set   | ~96% 🔥       |
+
+> Consistent and robust model even on unseen messages. Handles class imbalance using `class_weight='balanced'`.
+
+---
+
+## 💻 Technologies Used
+
+- Python 🐍
+- pandas & numpy
+- scikit-learn (LogisticRegression, TfidfVectorizer)
+  
+---
+
+## 🧠 Future Enhancements
+
+- 📨 Integrate with a real email client (like Gmail API)
+- 📬 UI Dashboard using Streamlit or Flask
+- 📌 Store spam logs in a database
+
+---
+
+## 🌟 Show Your Support
+
+If you liked this project, please ⭐ the repo and follow me for more data science & ML projects! 🤗
+
+---
+
+## 📬 Contact
+
+For collaborations, ideas, or suggestions:  
+📧 pearlynsangeetha.12@gmail.com  
+
+---
+
+> “In a world full of spam, be a ham.” 😄  
