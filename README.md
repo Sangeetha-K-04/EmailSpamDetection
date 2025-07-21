@@ -91,6 +91,16 @@ The `Category` is mapped to binary labels:
   
 ---
 
+## 📎 Project Resources
+
+Dive deeper into the academic analysis and professional presentation of this project:
+
+- 📄 [📥 Download Full Report (DOCX)](Email_Spam_Detection_Report.docx)
+- 🎞️ [📥 Download Presentation Slides (PPTX)](Email_Spam_Detection_Presentation.pptx)
+
+> Note: Due to GitHub limitations, file previews might not be available — but you can still download and explore the full content!
+
+
 ## 🧠 Future Enhancements
 
 - 📨 Integrate with a real email client (like Gmail API)
